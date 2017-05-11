@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PLTest</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_recycle_view">RecycleViewActivity</string>
+    <string name="title_activity_popup_window">PopupWindowActivity</string>
+    <string name="title_activity_file">FileActivity</string>
+    <string name="title_activity_float_tool_bar">FloatToolBarActivity</string>
+    <string name="title_activity_tool_bar_with_tab">ToolBarWithTabActivity</string>
+    <string name="title_activity_collapsing_tool_bar">CollapsingToolBarActivity</string>
+    <string name="viewpager">ViewPagerActivity</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_share">Share</string>
+    <string name="show_toast">toast</string>
+
+    <string name="tool_bar_title">Toolbar</string>
+    <string name="tool_bar_sub_title">Sub title</string>
+    <string name="collapsing">CollapsingToolbarLayout</string>
+    <string name="collapsing_title">Collapsing</string>
+
+    <string name="app_bar">AppBarLayout</string>
+
+    <string name="behavior">MyBehavior</string>
+    <string name="cardView">CardView</string>
+    <string name="card_string">First thing to do include Android Design Support Library in out project in out project is to add a line of dependency code in app\'s build.gradle file.</string>
+    <string name="action_list">List显示</string>
+    <string name="action_grid">Grid显示</string>
+    <string name="action_staggered">瀑布流显示</string>
+    <string name="desc">展示图片</string>
+    <string name="undo">undo</string>
+    <string name="title_activity_view_pager">ViewPagerActivity</string>
+</resources>

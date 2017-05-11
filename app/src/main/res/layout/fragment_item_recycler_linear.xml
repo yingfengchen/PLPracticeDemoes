@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+    <!--xmlns:cardview="http://schemas.android.com/apk/res-auto"和xmlns:app="http://schemas.android.com/apk/res-auto"效果一样-->
+
+    <android.support.v7.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/card_margin"
+        android:foreground="?attr/selectableItemBackground"
+        app:cardCornerRadius="6dp"
+        app:cardElevation="4dp">
+        <!--从SDK21开始不加android:layout_margin，CardView全部紧凑在一起，看不到效果，而且必须加载CardView上，不能加在外层RelativeLayout-->
+        <!--cardview:cardElevation增加CardView的海拔高度，如果使用xmlns:app的命名空间要使用app:cardElevation-->
+        <!--android:foreground="?attr/selectableItemBackground"点击效果-->
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="6dp">
+
+            <ImageView
+                android:id="@+id/item_list_iv_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                tools:src="@drawable/icon_01"/>
+
+            <TextView
+                android:id="@+id/item_list_tv_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:layout_marginStart="10dp"
+                android:layout_toEndOf="@id/item_list_iv_icon"
+                android:layout_toRightOf="@id/item_list_iv_icon"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                tools:text="图片描述"/>
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+</RelativeLayout>

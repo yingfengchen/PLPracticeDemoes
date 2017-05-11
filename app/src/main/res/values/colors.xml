@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="main_bg_color">#259b24</color>
+    <color name="transparent">#00000000</color>
+    <color name="search_block_bg">#33aa6d</color>
+
+    <color name="clock_bg">#c3c3c3</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue">#0066FF</color>
+    <color name="no_color">#00000000</color>
+    <color name="bg_color">#F4F3F3</color>
+    <color name="bg_color_deep">#E5E5E5</color>
+    <color name="black_with_alpha">#66000000</color>
+    <color name="black">#000000</color>
+    <color name="nine">#999999</color>
+    <color name="tab_text_unselect">#999999</color>
+    <color name="video_green">#3BD084</color>
+    <color name="snackbar">#3BD084</color>
+    <color name="text_color">#434343</color>
+    <color name="black_half">#a0000000</color>
+    <color name="blog_content_color">#666666</color>
+    <color name="blog_text_color">#555555</color>
+    <color name="lightwhite">#ddd</color>
+    <color name="ge_red">#e3170d</color>
+    <color name="tomato_red">#5ae3170d</color>
+    <color name="line_color">#f2f2f2</color>
+    <color name="color_bg">#E7E7E7</color>
+    <color name="color_black">#000000</color>
+    <color name="color_light_black">#292421</color>
+    <color name="color_gray">#222222</color>
+    <color name="detail_color_gray">#333333</color>
+    <color name="search_history_line_color">#dddddd</color>
+    <color name="color_lightgray">#888888</color>
+    <color name="color_green">#3a5898</color>
+    <color name="color_nocolor">#00000000</color>
+    <color name="color_subhead">#C0C0C0</color>
+    <color name="color_black_half">#E0000000</color>
+    <color name="select_day_color">#f65959</color>
+    <color name="day_color">#5f5f5f</color>
+    <color name="menu_bg">#ECECEC</color>
+    <color name="vedio_background">#f6f6f6</color>
+    <color name="vedio_radio">#eeeeee</color>
+    <color name="filter_btn">#e0e0e0</color>
+    <color name="likeCountText">#2b2b2b</color>
+    <color name="title_background">#e73939</color>
+    <color name="vfilter_line">#c3c3c3</color>
+    <color name="request_recommend_background">#e9e9e9</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="main_green">#00aa00</color>
+    <color name="text_color_white">#ffffff</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="mineGray">#e4e4e4</color>
+
+    <drawable name="red">#FF0000</drawable>
+    <drawable name="direct_tab_textcolor">#666666</drawable>
+    <drawable name="black">#000000</drawable>
+    <drawable name="blue">#0000FF</drawable>
+    <drawable name="white">#FFFFFF</drawable>
+    <drawable name="gray">#5f5f5f</drawable>
+    <drawable name="newblue">#3a5898</drawable>
+    <drawable name="direct_all_titletextcolor">#c0c0c0</drawable>
+    <drawable name="local_music_divide_color">#eeeeee</drawable>
+
+    <color name="grayf6_bg">#F6F6F6</color>
+    <!-- 字体颜色 -->
+    <color name="white_grey_text">#c0c0c0</color>
+    <color name="red_text">#e73939</color>
+    <color name="black_text">#000000</color>
+    <color name="gray_text">#5f5f5f</color>
+    <color name="gray6_text">#666666</color>
+    <color name="gray_comment_text">#545454</color>
+    <color name="blue_text">#3a5898</color>
+    <!-- 按钮属性 -->
+    <color name="white_text">#FFFFFF</color>
+    <!-- cifs -->
+    <color name="gray_deep_button">#d6d6d6</color>
+    <color name="filter_bg">#eeffffff</color>
+
+    <!-- 扫一扫二维码模块颜色 -->
+    <color name="contents_text">#ff000000</color>
+    <color name="encode_view">#ffffffff</color>
+    <color name="possible_result_points">#c0ffbd21</color>
+    <!-- Android standard ICS color -->
+    <color name="result_minor_text">#ffc0c0c0</color>
+    <color name="result_points">#c099cc00</color>
+    <!-- Android standard ICS color -->
+    <color name="result_text">#ffffffff</color>
+    <color name="result_view">#b0000000</color>
+    <color name="status_text">#ffffffff</color>
+    <color name="viewfinder_laser">#ffcc0000</color>
+    <!-- Android standard ICS color -->
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="gray">#808080</color>
+    <color name="comment_gray">#cccccc</color>
+    <color name="lightgreen">#99CC33</color>
+    <color name="green">#00CC00</color>
+    <color name="mouse_bg">#f3f3f3</color>
+    <color name="main_bottom_color">#f7f7f7</color>
+    <color name="local_item_bg">#dcdcdc</color>
+    <color name="search_voice_bg">#44000000</color>
+    <color name="main_backui">#107edb</color>
+    <color name="reserved_color">#00cccc</color>
+
+    <drawable name="keyboard_btn">#353535</drawable>
+    <drawable name="keyboard_btn_press">#208520</drawable>
+
+    <color name="local_playctrl_bg">#cc101010</color>
+    <color name="keyboard_black_half">#80000000</color>
+
+    <color name="main_background_color">#3bd084</color>
+    <color name="main_unseltext_color">#323232</color>
+
+
+    <color name="local_music_name_textcolor">#333333</color>
+    <color name="local_music_artist_textcolor">#999999</color>
+    <color name="local_music_piaying_textcolor">#3bd084</color>
+
+    <drawable name="playcontrol_seek_bg">#d4ffe6</drawable>
+    <drawable name="playcontrol_seek_progress">#3bd084</drawable>
+
+
+    <color name="actionsheet_blue">#037BFF</color>
+    <color name="actionsheet_red">#FD4A2E</color>
+    <color name="actionsheet_gray">#8F8F8F</color>
+</resources>
